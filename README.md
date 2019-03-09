@@ -1,7 +1,7 @@
 # my-project
 ![image](https://github.com/zonedd/my-project/raw/master/1.jpg)
 ![image](https://github.com/zonedd/my-project/raw/master/2.jpg)
-Analysis the behaviour of players in PUBG  top100 by kmeans cluster algorithm.
+  Analysis the behaviour of players in PUBG  top100 by kmeans cluster algorithm.
 
 # Spider
 The file pubg.py contains a complete spider of PUBG.ME and some i/o api for Excel.
